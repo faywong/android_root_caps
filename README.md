@@ -14,7 +14,7 @@
 ## 特色应用
 
 8. 看家/娃: 闲置手机自动接听视频电话. [t/1066631](https://www.v2ex.com/t/1066631)
-9. 在 pixel 启用电信 LTE
+9. [在 pixel 启用电信 LTE](https://github.com/cxOrz/pixel_ims_module)
 10. 在 pixel 启用支付宝指纹
 11. appops，更方便的管理权限
 12. 存储空间隔离
@@ -44,9 +44,12 @@
 36. 芝麻粒 实现支付宝自动化
 37. 隐藏应用列表 防止某些软件偷看苦茶子
 38. 拒绝强制亮度
-39. AdClose
-40. fcmfix 修复 fcm
-41. XposedSmsCode 自动提取验证码输入等
-42. 游戏: CPU 锁频, 避免手机过热降速运行, 注意散热, 注意散热.
-43. NAS: 挂硬盘跑 alist, BT, syncthing 等, 注意供电和散热.
+39. 潘多拉核心 增加续航。
+40. AdClose
+41. fcmfix 修复 fcm
+42. XposedSmsCode 自动提取验证码输入等
+43. 游戏: CPU 锁频, 避免手机过热降速运行, 注意散热, 注意散热.
+44. NAS: 挂硬盘跑 alist, BT, syncthing 等, 注意供电和散热.
+45. screencam 录屏内录音频，解除 flag secure 截屏限制，ida pro 动态调试
+46. 安装 [bromite webview](https://github.com/bromite/bromite/wiki/Installing-SystemWebView)
 
