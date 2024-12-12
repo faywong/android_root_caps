@@ -15,10 +15,10 @@
 
 8. 看家/娃: 闲置手机自动接听视频电话. [t/1066631](https://www.v2ex.com/t/1066631)
 9. [在 pixel 启用电信 LTE](https://github.com/cxOrz/pixel_ims_module)
-10. 在 pixel 启用支付宝指纹
-11. appops，更方便的管理权限
+10. [在 pixel 启用支付宝指纹](https://github.com/eritpchy/FingerprintPay)
+11. [appops，更方便的管理权](https://appops.rikka.app/zh-hans/)
 12. 存储空间隔离
-13. 调度（ Thanox 、scene ）
+13. 调度 [Thanox](https://tornaco.github.io/Thanox-Docs/zh/)  Scene
 14. 美化（ iconify ）
 15. 功能增强（ QAuxiliary 、Wxposed 、freedom+、mipush ）
 16. 用 rclone 可以挂 samba, 版本是 v1.66.0-termux
