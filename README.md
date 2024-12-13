@@ -52,4 +52,11 @@
 44. NAS: 挂硬盘跑 alist, BT, syncthing 等, 注意供电和散热.
 45. screencam 录屏内录音频，解除 flag secure 截屏限制，ida pro 动态调试
 46. 安装 [bromite webview](https://github.com/bromite/bromite/wiki/Installing-SystemWebView)
+47. [screencam 录屏内录音频](https://f-droid.org/packages/com.orpheusdroid.screenrecorder/)
+48. [解除 flag secure 截屏限制(https://blog.csdn.net/weixin_30416871/article/details/97918325)
+49. [ida pro 动态调试](https://juejin.cn/post/7415725134595489804
+50. [bromite webview](https://www.bromite.org/system_web_view)
+51. [潘多拉内核增加续航](https://www.bilibili.com/read/cv25548351/)
+
+
 
